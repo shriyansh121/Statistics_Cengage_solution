@@ -184,24 +184,11 @@ The **Median** is the middle value in an ordered dataset. If there is an odd num
 ### Mode
 The **Mode** is the value that appears most frequently in a dataset. A dataset may have one mode, more than one mode, or no mode at all if all values are unique.
 
-### Percentile
-The **Percentile** represents the value below which a certain percentage of observations fall. The formula to find the percentile position \( L_p \) is:
+### Skewness
+![Skewness Types](1_bHglrUGg4CGLouOfFn9ZJw.png)
 
-**Percentile Position** = \( L_p = \frac{p(n+1)}{100} \)
-
-Where:
-- \( L_p \) = the position of the \(p\)-th percentile in the ordered dataset
-- \( p \) = desired percentile (e.g., 25 for the 25th percentile)
-- \( n \) = number of values in the dataset
-
-#### Procedure to Calculate a Percentile:
-1. **Order the Data**: Arrange the dataset in ascending order.
-2. **Calculate Position**: Use the formula \( L_p = \frac{p(n+1)}{100} \) to determine the position of the percentile.
-3. **Locate the Value**: 
-   - If \( L_p \) is an integer, the value at that position in the ordered dataset is the percentile.
-   - If \( L_p \) is not an integer, interpolate between the two closest positions to find the percentile.
-
-
+### Kurtosis
+![Kurtosis Types]()
 
 ## Chapter 4: Introduction to Probability
 
