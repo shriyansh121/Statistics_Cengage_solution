@@ -185,18 +185,25 @@ The **Median** is the middle value in an ordered dataset. If there is an odd num
 The **Mode** is the value that appears most frequently in a dataset. A dataset may have one mode, more than one mode, or no mode at all if all values are unique.
 
 ### Skewness
-![Skewness Types](1_bHglrUGg4CGLouOfFn9ZJw.png)
+<img src="1_bHglrUGg4CGLouOfFn9ZJw.png" alt="Kurtosis Types" width="400" height="300">
 
 ### Kurtosis
-![Kurtosis Types]()
+<img src="The-difference-between-skewness-and-kurtosis.webp" alt="Kurtosis Types" width="400" height="300">
 
 ## Chapter 4: Introduction to Probability
 
+<img src="1_nPxOKWpyD80uqqDMluoYgA.png" alt="Probability Formulas" width="430" height="500">
+
 ## Chapter 5: Discrete Probability Distributions
-Content for Chapter 5...
+
+<img src="chapter5.png"  width="370" height="500">
+<img src="chapter5_2.png"  width="300" height="300">
 
 ## Chapter 6: Continuous Probability Distributions
-Content for Chapter 6...
+
+<img src="empirical.png" alt = "Empirical rule" width="400" height="400">
+<img src="normal.png" alt="Normal Distribution" width="400" height="400">
+<img src="formula_chp6.png" width="300" height="300">
 
 ## Chapter 7: Sampling and Sampling Distributions
 Content for Chapter 7...
