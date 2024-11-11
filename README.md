@@ -27,7 +27,7 @@ Python offers a vast range of libraries, but working independently of them provi
 - [Chapter 19: Statistical Methods for Quality Control](#chapter-19-statistical-methods-for-quality-control)
 - [Chapter 20: Index Numbers](#chapter-20-index-numbers)
 - [Chapter 21: Decision Analysis (On Website)](#chapter-21-decision-analysis-on-website)
-- [Chapter 22: Sample Survey (On Website)](#chapter-22-sample-survey-on-website)
+
 
 ## Chapter 1: Data and Statistics
 
@@ -250,5 +250,4 @@ Content for Chapter 20...
 ## Chapter 21: Decision Analysis (On Website)
 Content for Chapter 21...
 
-## Chapter 22: Sample Survey (On Website)
-Content for Chapter 22...
+
